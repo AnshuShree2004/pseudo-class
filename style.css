@@ -1,0 +1,26 @@
+Here is the code of CSS :-
+
+.button:hover{
+  color:pink;
+ background-color: black; 
+ border:2px solid darkred;
+}
+.div:hover{
+  color: aquamarine;
+  background-color: yellowgreen;
+}
+.p{
+  color: blue;
+  background-color: orapx;
+}
+#a:visited{
+  color:purple;
+}
+#a:active{
+  color:pink;
+}
+#input:focus{
+  font-size: 25px;
+  color:brown;
+  background-color: black;
+}
